@@ -155,8 +155,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ![image](https://github.com/22008008/Experiment-5-Implementation-of-XOR-using-RBF/assets/118343520/7ef793c9-c948-45bd-af04-a73404b7b4e3)
 
-![image](https://user-images.githubusercontent.com/93427345/201344219-d96a0ddf-b724-4a95-9658-4760b54cbf35.png!!)
-   
+![image](https://github.com/22008008/Experiment-5-Implementation-of-XOR-using-RBF/assets/118343520/7aa4dd9f-8a6d-4924-88ee-36e3faa36f37)
+
 ## RESULT:
 ```
 Implementation-of-XOR-using-RBF is successfully implemented.
